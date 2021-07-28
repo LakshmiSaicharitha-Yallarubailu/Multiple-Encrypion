@@ -8,3 +8,6 @@ ALGORITHMS USED
 	AES Cipher
 	Blowfish Cipher
 	RC6
+
+
+This project enhanced the different encryption algorithm with multiple encryption process and varying encryption key. Here the random key generation concept is used. The algorithm is tested on plain text and found more secure than the single level encryption algorithms. However, the new enhancement method can encrypt text through four different algorithms. The method of multiple encryption has been clearly shown to be more secure than any single level encryption
